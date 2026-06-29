@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+
+# Data folders
+data/
+
+# Output folders
+output/
+
+# Environment
+venv/
+.env
